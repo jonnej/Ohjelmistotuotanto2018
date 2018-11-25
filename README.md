@@ -9,7 +9,6 @@
 
 ## Laskarit
 
-<<<<<<< HEAD
 [1](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/1.md) [2](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/2.md)
 
 
@@ -19,5 +18,4 @@ Fork for exercise 17
 
 Pull request week2
 =======
-[1](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/1.md) [2](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/2.md) [3](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/3.md) [4](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/4.md) [5](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/5.md) [6](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/6.md)
->>>>>>> cb82261ebf92418042a4350287811f5d5b10034b
+[1](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/1.md) [2](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/2.md) [3](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/3.md)
